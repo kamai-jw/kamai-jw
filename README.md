@@ -1,14 +1,18 @@
 # Kamai Jackson-Wade
 
-ee engineer & ml researcher @ warwick
+eecs @ warwick
+
+ml researcher @ warwick
+
+founding engineer @ tausen
 
 ---
 
-## Current Focus & Research Direction
+## Current Focus, Interests, & Research Direction
+I am interested in ML Research & Quantitative Finance, but here is what I am working on currently
 
 - Machine Unlearning for Robotics (Supervised Research)
 - Low-latency C++ applied to financial markets 
-- ML Research
 - Robotics and embedded intelligence
 ---
 
@@ -18,7 +22,7 @@ ee engineer & ml researcher @ warwick
 - Embedded AI
 - Robotics
 ---
-## Contact
+Contact me anywhere if you want to collab, I don't care about your skill level, just want to build
 
-LinkedIn: [Your LinkedIn URL]  
-Email: [your.email@domain.com]
+[LinkedIn](https://www.linkedin.com/in/kamaiwade/)  
+[Email](kamai.jackson-wade@warwick.ac.uk)
