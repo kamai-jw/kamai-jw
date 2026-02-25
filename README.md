@@ -1,28 +1,28 @@
 # Kamai Jackson-Wade
-
-eecs @ warwick
-
-ml researcher @ warwick
-
-founding engineer @ tausen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=150&section=header&text=Kamai%20Jackson-Wade&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=eecs%20%40%20warwick%20·%20ml%20researcher%20·%20founding%20engineer&descSize=16&descColor=ffffff&descAlignY=55"/>
 
 ---
 
-## Current Focus, Interests, & Research Direction
-I am interested in ML Research & Quantitative Finance, but here is what I am working on currently
-
-- Machine Unlearning for Robotics (Supervised Research)
-- Low-latency C++ applied to financial markets 
-- Robotics and embedded intelligence
----
+## What I'm Working On
+- Machine Unlearning for Robotics *(supervised research)*
+- Low-latency C++ for financial markets
+- Robotics & embedded intelligence
 
 ## Interests
-
 - Machine Learning Research
-- Embedded AI
-- Robotics
----
-Contact me anywhere if you want to collab, I don't care about your skill level, just want to build
+- Embedded AI · Robotics
+- Quantitative Finance
 
-[LinkedIn](https://www.linkedin.com/in/kamaiwade/)  
-[Email](kamai.jackson-wade@warwick.ac.uk)
+---
+
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamai-jw&theme=radical"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=kamai-jw&theme=radical&hide_border=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=100&section=footer"/>
+
+---
+
+Open to collabs at any skill level, reach out anywhere.
+[LinkedIn](https://www.linkedin.com/in/kamaiwade/) · [Email](mailto:kamai.jackson-wade@warwick.ac.uk)
