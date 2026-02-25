@@ -16,8 +16,8 @@
 ---
 
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamai-jw&theme=radical"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=kamai-jw&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamai-jw&theme=transparent"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=kamai-jw&theme=dark&hide_border=true"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=100&section=footer"/>
