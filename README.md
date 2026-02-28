@@ -26,3 +26,6 @@
 
 Open to collabs at any skill level, reach out anywhere.
 [LinkedIn](https://www.linkedin.com/in/kamaiwade/) · [Email](mailto:kamai.jackson-wade@warwick.ac.uk)
+
+
+*c++ engineer but majority of my public repos will be in python or typescript due to hackathons* 
