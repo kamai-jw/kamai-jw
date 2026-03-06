@@ -5,13 +5,12 @@
 
 ## What I'm Working On
 - Machine Unlearning for Robotics *(supervised research)*
-- Low-latency C++ for financial markets
+- Low-latency C++ library
 - Robotics & embedded intelligence
 
 ## Interests
 - Machine Learning Research
 - Embedded AI · Robotics
-- Quantitative Finance
 
 ---
 
