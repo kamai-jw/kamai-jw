@@ -1,16 +1,22 @@
-# Kamai Jackson-Wade
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=150&section=header&text=Kamai%20Jackson-Wade&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=eecs%20%40%20warwick%20·%20ml%20researcher%20·%20founding%20engineer&descSize=16&descColor=ffffff&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=150&section=header&text=Kamai%20Jackson-Wade&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=EEE%20%40%20Warwick%20·%20ML%20Researcher%20·%20C%2B%2B%20Engineer&descSize=16&descColor=ffffff&descAlignY=55"/>
 
----
+## About
+First-year EEE student at the University of Warwick. I work at the intersection of reinforcement learning, high-performance systems, and embodied AI. 
 
-## What I'm Working On
-- Machine Unlearning for Robotics *(supervised research)*
-- Low-latency C++ library
-- Robotics & embedded intelligence
+My research focus is efficient RL for real-time sequential decision making — robotic control and beyond.
 
-## Interests
-- Machine Learning Research
-- Embedded AI · Robotics
+VP of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
+
+## What I'm Building
+- **[rxl](https://github.com/kamai-jw/rxl)** — high-performance C++20 RL library for real-time robot control
+- **Machine Unlearning for Safe and Adaptive Robotics** — supervised research, University of Warwick
+
+## Research & Papers
+- **OpenQuant** — NeurIPS-formatted technical paper on strategy evaluation as constrained optimisation · [Thesis](https://drive.google.com/file/d/1H9BOt-U4THjy7V3lSaCgi-AI9XvedINd/view?usp=sharing)
+- **HMM Regime-Switching** — Baum-Welch EM on S&P 500 returns · [Notebook](https://github.com/kamai-jw/notebooks/blob/main/hmm_regime.ipynb)
+
+## Stack
+C++20 · Python · CUDA · Triton 
 
 ---
 
@@ -23,8 +29,6 @@
 
 ---
 
-Open to collabs at any skill level, reach out anywhere.
-[LinkedIn](https://www.linkedin.com/in/kamaiwade/) · [Email](mailto:kamai.jackson-wade@warwick.ac.uk)
+[LinkedIn](https://www.linkedin.com/in/kamaiwade/) · [Portfolio](https://kamai.uk) · [Email](mailto:kamai.jackson-wade@warwick.ac.uk)
 
-
-*c++ engineer but majority of my public repos will be in python or typescript due to hackathons* 
+*Most public repos are Python or TypeScript from hackathons — majority of my C++ work lives in private repos.*
