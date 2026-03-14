@@ -1,11 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=150&section=header&text=Kamai%20Jackson-Wade&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=EEE%20%40%20Warwick%20·%20ML%20Researcher%20·%20C%2B%2B%20Engineer&descSize=16&descColor=ffffff&descAlignY=55"/>
-
 ## About
-First-year EEE student at the University of Warwick. I work at the intersection of reinforcement learning, high-performance systems, and embodied AI. 
+First-year EEE student at the University of Warwick.
 
-My research focus is efficient RL for real-time sequential decision making — robotic control and beyond.
+My research focus is efficient RL for real-time sequential decision making for robotic control and financial markets.
 
-VP of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
+> VP of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
 
 ## What I'm Building
 - **[rxl](https://github.com/kamai-jw/rxl)** — high-performance C++20 RL library for real-time robot control
