@@ -3,7 +3,7 @@ First-year EEE student at the University of Warwick.
 
 My research focus is efficient RL for real-time sequential decision making for robotic control and financial markets.
 
-> VP of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
+President of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
 
 ## What I'm Building
 - **[rxl](https://github.com/kamai-jw/rxl)** — high-performance C++20 RL library for real-time robot control
