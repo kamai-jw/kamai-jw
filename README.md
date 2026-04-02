@@ -5,14 +5,6 @@ My research focus is efficient RL for real-time sequential decision making for r
 
 President of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
 
-## What I'm Building
-- **[rxl](https://github.com/kamai-jw/rxl)** — high-performance C++20 RL library for real-time robot control
-- **Machine Unlearning for Safe and Adaptive Robotics** — supervised research, University of Warwick
-
-## Research & Papers
-- **OpenQuant** — NeurIPS-formatted technical paper on strategy evaluation as constrained optimisation · [Thesis](https://drive.google.com/file/d/1H9BOt-U4THjy7V3lSaCgi-AI9XvedINd/view?usp=sharing)
-- **HMM Regime-Switching** — Baum-Welch EM on S&P 500 returns · [Notebook](https://github.com/kamai-jw/notebooks/blob/main/hmm_regime.ipynb)
-
 ## Stack
 C++20 · Python · CUDA · Triton 
 
