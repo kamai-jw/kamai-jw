@@ -1,7 +1,7 @@
 ## About
 First-year EEE student at the University of Warwick.
 
-My research focus is efficient RL for real-time sequential decision making for robotic control and financial markets.
+My research focus is efficient ML for real-time sequential decision making for robotic control and financial markets.
 
 President of Warwick Coding Society sponsored by Jane Street · HRT · Bloomberg · Jump Trading.
 
