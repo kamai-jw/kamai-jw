@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  EEE @ Warwick &nbsp;·&nbsp; MLE @ Dubsof &nbsp;·&nbsp; Quant Strategies @ Goldman Sachs
+  EEE @ Warwick &nbsp;·&nbsp; MLE @ Dubsof &nbsp;·&nbsp; Quant Strategies Spring @ Goldman Sachs
 </p>
 
 <p align="center">
