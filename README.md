@@ -1,7 +1,7 @@
 <h1 align="center">kamai.</h1>
 
 <p align="center">
-  efficient ml · numerical methods · kernel systems
+  efficient ml research · numerical methods · kernel design
 </p>
 
 <p align="center">
