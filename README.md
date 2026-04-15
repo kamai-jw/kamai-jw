@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://kamai.uk">kamai.uk</a>
+  <a href="https://kamai.uk">kamai.uk</a> <br> feel free to message, i'm probably on my computer doing a problem set anyway 
 </p>
