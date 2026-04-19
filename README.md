@@ -1,13 +1,8 @@
-<h1 align="center">kamai.</h1>
+# kamai jackson-wade
 
-<p align="center">
-  efficient ml research · numerical methods · kernel design
-</p>
+> **about:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; electrical engineering @ warwick · mle @ dubsof · quant strats spring @ goldman sachs
 
-<p align="center">
-  EEE @ Warwick &nbsp;·&nbsp; MLE @ Dubsof &nbsp;·&nbsp; Quant Strategies Spring @ Goldman Sachs
-</p>
+**researching:** &nbsp; efficient ml architecture, numerical methods, kernel optimisation  
 
-<p align="center">
-  <a href="https://kamai.uk">kamai.uk</a> <br> feel free to message, i'm probably on my computer doing a problem set anyway 
-</p>
+
+**page:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kamai.uk](https://kamai.uk)
