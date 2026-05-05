@@ -1,8 +1,8 @@
 # kamai jackson-wade 
 
-**about:** &nbsp; physics @ warwick | mle @ dubsof | quant strats spring @ goldman sachs
+**about:** &nbsp; physics @ warwick | mle @ dubsof | quant spring @ goldman sachs
 
-**researching:** &nbsp; efficient ml architecture, numerical methods, kernel optimisation  
+**research interests:** &nbsp; physics-informed mean field game theory and efficient ML
 
 
 **pages:** &nbsp;
