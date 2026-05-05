@@ -1,6 +1,6 @@
 # kamai jackson-wade 
 
-**about:** physics @ warwick | lead researcher @ machinex | mle @ dubsof | quant spring @ goldman sachs | president of warwick coding society 
+**about:** physics @ warwick | lead researcher @ superglue | mle @ dubsof | quant spring @ goldman sachs | president of warwick coding society 
 
 **research interests:** physics-informed mean field game theory and efficient ML
 
