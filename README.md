@@ -2,7 +2,7 @@
 
 **about:** physics @ warwick | lead researcher @ superglue | mle @ dubsof | quant spring @ goldman sachs | president of warwick coding society 
 
-**research interests:** physics-informed mean field game theory and efficient ML
+**research interests:** efficient deep learning methods for high-dimensional stochastic control
 
 **pages:** &nbsp;
 
