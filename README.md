@@ -1,9 +1,8 @@
 # kamai jackson-wade 
 
-**about:** physics @ warwick | mle @ dubsof | quant spring @ goldman sachs | president of warwick coding society (sponsored by hudson river trading, jane street, jump trading, citadel, bloomberg)
+quantitative researcher
 
-**research interests:** efficient deep learning methods for high-dimensional stochastic control
+research direction / interests : efficient deep learning methods for stochastic control & mean-field game theory
 
-**pages:** &nbsp;
 
 [kamai.uk](https://kamai.uk)
