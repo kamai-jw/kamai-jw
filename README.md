@@ -1,5 +1,7 @@
 # kamai jackson-wade 
 
+british physicist & electrical engineer
+
 quantitative researcher at a research lab & hft firm
 
 research direction / interests : efficient deep learning methods for stochastic control & physics-informed mean-field game theory
