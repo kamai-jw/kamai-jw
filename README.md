@@ -2,7 +2,7 @@
 
 british physicist & electrical engineer
 
-quantitative researcher at undisclosed
+quantitative researcher at X research group
 
 research direction / interests : efficient deep learning methods for stochastic control & physics-informed mean-field game theory
 
